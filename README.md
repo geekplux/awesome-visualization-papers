@@ -28,6 +28,15 @@ Anyone is welcome to contribute. Please read the [contributing guide](./CONTRIBU
 
 ## Table of Contents
 
+* [Survey / Review](#survey-review)
+* [Theory / Future](#theory-future)
+* [Methods](#methods)
+* [Interactive](#interactive)
+* [Visual Analysis](#visual-analysis)
+* [Time / Spatial / Spatio-temporal](#time-spatial)
+* [Medical / Biological](#medical-biological)
+* [Tools](#tools)
+
 
 
 ## License
